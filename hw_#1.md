@@ -1,4 +1,5 @@
-Terminal linux Homework №1
+# Terminal linux Homework №1
+
 1) Посмотреть где я
 
         pwd

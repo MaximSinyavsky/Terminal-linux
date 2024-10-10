@@ -1,4 +1,4 @@
-Terminal linux Homework №2
+# Terminal linux Homework №2
 
 1. Сделать папку dir_1
 
